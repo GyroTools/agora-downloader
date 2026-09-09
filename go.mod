@@ -1,6 +1,6 @@
 module agora-downloader
 
-go 1.17
+go 1.20
 
 require (
 	github.com/GyroTools/gtagora-connector-go v0.4.0
